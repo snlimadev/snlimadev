@@ -1,4 +1,4 @@
-Hi, my name is Salomão and I'm a systems analyst who likes to learn about new things and new technologies.
+Hi, my name is Salomão and I'm a systems analyst and full-stack developer who likes to learn about new things and new technologies.
 
 My public projects are the following:
 
