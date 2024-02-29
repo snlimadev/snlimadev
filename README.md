@@ -1,6 +1,6 @@
 Hi, my name is Salomão and I'm a systems analyst and full-stack developer who likes to learn about new things and new technologies.
 
-My public projects are the following:
+Check my public projects:
 
 <ul>
   <li><a href="https://github.com/users/snlimadev/projects/6/views/1">Tic-Tac-Toe</a></li>
