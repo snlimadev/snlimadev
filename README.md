@@ -37,4 +37,9 @@ Here are the public projects that I developed as a hobby, from oldest to newest:
     <b>Game Leaderboards</b>:
     <a href="https://github.com/snlimadev/api-game-leaderboards">Node.js API</a>
   </li>
+  <li>
+    <b>Battleship - Online</b>:
+    <a href="https://github.com/snlimadev/api-battleship-online">Node.js WebSocket Server</a> and
+    <a href="https://github.com/snlimadev/app-battleship-online">React Native App</a>
+  </li>
 </ul>
