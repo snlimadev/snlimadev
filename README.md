@@ -43,3 +43,16 @@ Here are the public projects that I developed as a hobby, from oldest to newest:
     <a href="https://github.com/snlimadev/app-battleship-online">React Native App</a>
   </li>
 </ul>
+
+For learning purposes, I developed the following projects:
+
+<ul>
+  <li>
+    <b>React Native Firebase Example</b>:
+    <a href="https://github.com/snlimadev/app-react-native-firebase-example">React Native App</a>
+  </li>
+  <li>
+    <b>AI Chatbot Example</b>:
+    <a href="https://github.com/snlimadev/nextjs-ai-chatbot-example">Next.js Website</a>
+  </li>
+</ul>
