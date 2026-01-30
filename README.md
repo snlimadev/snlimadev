@@ -55,4 +55,8 @@ For learning purposes, I developed the following projects:
     <b>AI Chatbot Example</b>:
     <a href="https://github.com/snlimadev/nextjs-ai-chatbot-example">Next.js Website</a>
   </li>
+  <li>
+    <b>Next.js Course Projects</b>:
+    <a href="https://github.com/snlimadev/nextjs-course-projects">React and Next.js Websites</a>
+  </li>
 </ul>
