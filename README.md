@@ -59,4 +59,8 @@ For learning purposes, I developed the following projects:
     <b>Next.js Course Projects</b>:
     <a href="https://github.com/snlimadev/nextjs-course-projects">React and Next.js Websites</a>
   </li>
+  <li>
+    <b>Go Course Projects</b>:
+    <a href="https://github.com/snlimadev/go-course-projects">Go CLI Tools and REST API</a>
+  </li>
 </ul>
