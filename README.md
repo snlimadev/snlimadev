@@ -10,7 +10,7 @@ Here are the public projects that I developed as a hobby, from oldest to newest:
   <li>
     <b>Random Number Generator</b>:
     <a href="https://github.com/snlimadev/app-sorteador-de-numeros">React Native App</a>,
-    <a href="https://github.com/snlimadev/api-sorteador-de-numeros">Node.js API</a> and
+    <a href="https://github.com/snlimadev/api-sorteador-de-numeros">Node.js REST API</a> and
     <a href="https://github.com/snlimadev/react-sorteador-de-numeros">React Website</a>
   </li>
   <li>
@@ -35,7 +35,7 @@ Here are the public projects that I developed as a hobby, from oldest to newest:
   </li>
   <li>
     <b>Game Leaderboards</b>:
-    <a href="https://github.com/snlimadev/api-game-leaderboards">Node.js API</a>
+    <a href="https://github.com/snlimadev/api-game-leaderboards">Node.js REST API</a>
   </li>
   <li>
     <b>Battlefleet - Online</b>:
@@ -62,5 +62,9 @@ For learning purposes, I developed the following projects:
   <li>
     <b>Go Course Projects</b>:
     <a href="https://github.com/snlimadev/go-course-projects">Go CLI Tools and REST API</a>
+  </li>
+  <li>
+    <b>GraphQL Course Projects</b>:
+    <a href="https://github.com/snlimadev/graphql-course-projects">React Websites and Node.js GraphQL APIs</a>
   </li>
 </ul>
