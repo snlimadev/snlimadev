@@ -67,4 +67,8 @@ For learning purposes, I developed the following projects:
     <b>GraphQL Course Projects</b>:
     <a href="https://github.com/snlimadev/graphql-course-projects">React Websites and Node.js GraphQL APIs</a>
   </li>
+  <li>
+    <b>AI Builder Course Projects</b>:
+    <a href="https://github.com/snlimadev/ai-builder-course-projects">n8n Workflows</a>
+  </li>
 </ul>
