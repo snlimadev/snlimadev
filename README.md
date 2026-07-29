@@ -71,4 +71,8 @@ For learning purposes, I developed the following projects:
     <b>AI Builder Course Projects</b>:
     <a href="https://github.com/snlimadev/ai-builder-course-projects">n8n Workflows</a>
   </li>
+  <li>
+    <b>Agentic AI Engineer Course Projects</b>:
+    <a href="https://github.com/snlimadev/agentic-ai-engineer-course-projects">Python AI Agents</a>
+  </li>
 </ul>
